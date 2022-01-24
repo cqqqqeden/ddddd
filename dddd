@@ -1,0 +1,42 @@
+Made By:10100101
+*/
+
+/*Background */
+.pattern-bg {
+background: url(https://cdn.discordapp.com/attachments/885561176862371853/927546805250572318/yellow-background-with-halftone-lines-design_1017-30148.png) !important;
+width: 100%;
+}
+
+/*
+Another BG: https://cdn.discordapp.com/attachments/902707685873569894/927355415505797170/liness.png
+https://cdn.discordapp.com/attachments/902707685873569894/927355976410095626/gagaga.png?width=1051&height=657
+*/
+
+.bg-radial {
+display: none;
+}
+
+/* Lobby */
+.promo-link-btn {
+display: none !important;
+}
+
+.logo {
+display: (https://cdn.discordapp.com/attachments/902707685873569894/927358810601947236/logoo.png?width=263&height=153)
+}
+
+.soc-group[data-v-3c44abf2] {
+display: none;
+}
+
+.systems {
+margin-bottom: 5% !important;
+}
+
+.moneys {
+position: fixed;
+right: unset;
+left: 79% !important;
+}
+
+.right-iconsv
